@@ -25,6 +25,7 @@ SEEED Studio's Seeeduino XIAO is a minimal, low-cost board that uses the Atmel A
 * SRAM: 32 KB
 * Digital I/O pins: 11
 * Analog I/O pins: 11
+* Qtouch pins: 7
 * I2C interfaces: 1
 * SPI interfaces: 1
 * UART interfaces: 1
